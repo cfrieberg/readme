@@ -1,11 +1,6 @@
-# readme
+👋 Hi there, I'm Chris Frieberg!
 
-#Profile template from chatgpt
-
-# 👋 Hi there, I'm Christopher Frieberg!
-
-Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** with a strong background in IT infrastructure, cloud services, and automation. My focus is on simplifying systems, enhancing security, and creating scalable processes.
-
+Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** with a strong background in IT infrastructure, cloud services, and automation.
 ---
 
 ### 🚀 **About Me**
