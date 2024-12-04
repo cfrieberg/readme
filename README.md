@@ -53,12 +53,9 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/chrisfrieberg/)*
 - 📧 [Email](mailto:friebergchris@gmail.com)
 - 💻 [GitHub](#) *(https://github.com/cfrieberg)*
-
 ---
 
 ### 💼 **Previous Job Experience**
-
-
 
 **IT Consultant
 - Robert Half Technology, Denver, CO  (Aug '19 - Feb '20)**
