@@ -7,12 +7,12 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - 💼 **Current Role:** Staff Systems Administrator at Uplight, Inc.
 - 🌍 **Location:** Lafayette, CO
 - 🎓 **Education:** Associate's Degree, College of Lake County
-- 🛠️ **Technical Expertise:** Corporate IT Infrastructure
+- 🛠️ **Technical Expertise:** IT Infrastructure
   - **Cloud Platforms:** Azure, Google Cloud Platform (GCP), AWS
-  - **Systems Administration:** Windows Server, macOS, Linux
-  - **Tools:** Terraform, PowerShell, Bash, GAM
-  - **Enterprise Software:** JumpCloud, Slack, Freshservice, Jira, GitHub, GitLab
-  - **Network Infrastructure:** Cisco Meraki, Ubiquiti, Zoom Rooms
+  - **Systems Administration:** Windows PC & Server, macOS, Linux
+  - **Tools:** Endpoint Management Tools; JumpCloud, Automox, SentinelOne. Terraform, PowerShell, Bash, GAM
+  - **Enterprise Software:** Google WorkSpace "gsuite", Microsoft 365, SAML/SSO Integrations, JumpCloud, MDM, Slack, Freshservice, Jira, GitHub, GitLab, Zendesk, On/Offboarding automation 
+  - **Network Infrastructure:** Zoom Rooms, Cisco Meraki, OpenVPN
   - **Security & Compliance:** SOC2, Endpoint Policies, Patch Management
 
 ---
@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **IT Infrastructure:** Building and maintaining office networks, including Cisco Meraki firewalls and switches.
 - **Collaboration Tools:** Administering Slack workspaces, SSO integrations, and Zoom conference systems.
 - **Security Practices:** Implementing endpoint encryption, vulnerability remediation, and compliance processes.
-
+- **Cost Reduction:** Lead enterprise application integrations during Merger & Auqisition phases. 
+- **Vendor relation management:** Uplight IT SME and point of contact for Automox, Cisco Meraki, JumpCloud, OpenVPN, Udemy.  
 ---
 
 ### 📂 **Projects & Contributions**
@@ -43,9 +44,9 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 ---
 
 ### 🌱 **Currently Learning**
+- Building on my foundational Linux knowledge, including system administration, shell scripting, and further expanding my skills with Terraform and Docker.
 - Expanding my knowledge in **cloud engineering**, focusing on **AWS** and **Azure** certifications.
 - Exploring advanced topics in **automation** and **infrastructure as code (IaC)**.
-
 ---
 
 ### 📫 **Connect with Me!**
@@ -54,6 +55,26 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - 💻 [GitHub](#) *(https://github.com/cfrieberg)*
 
 ---
+
+### 💼 **Previous Job Experience**
+
+**Staff Systems Administrator - Uplight (Feb '20 - Present)**  
+- Managed and mentored a team of desktop IT technicians, providing leadership and guidance for escalated IT support issues.
+- Coordinated the deployment and support of IT systems, including desktops, servers, and cloud platforms.
+- Improved team efficiency by implementing streamlined ticketing systems and troubleshooting procedures, which increased resolution speed and customer satisfaction.
+- Ensured that IT processes were in place to maintain security and compliance for end-user systems, including desktop encryption and vulnerability remediation.
+
+**IT Consultant - Robert Half Technology (Aug '19 - Feb '20)**  
+- Administered patch management for all company laptops and servers, ensuring up-to-date software and security patches were applied.
+- Worked closely with internal teams to design and deploy automated software management systems, reducing manual intervention.
+- Conducted training for junior IT staff to ensure understanding of patch management tools and best practices.
+
+**Field Operations Site Lead - 3-D Technology Group (Nov '16 - Nov '18)**  
+- Led IT infrastructure operations for hospital domain migration projects, overseeing teams responsible for hardware setup, software installation, and system configurations.
+- Managed a team of technicians to deploy and maintain over 100 devices daily, ensuring compliance with strict timelines and quality standards.
+- Provided after-hours support for critical systems, ensuring uptime for healthcare services and quick resolution of service disruptions.
+- Tracked and managed project progress using internal software, ensuring that all devices met client specifications and regulatory requirements.
+
 
 **Thanks for visiting!** Feel free to explore my repositories or reach out to discuss projects, collaboration opportunities, or just to say hi! 🚀
 
