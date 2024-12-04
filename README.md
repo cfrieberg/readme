@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
   - **Cloud Platforms:** Azure, Google Cloud Platform (GCP), AWS
   - **Systems Administration:** Windows PC & Server, macOS, Linux
   - **Tools:** Endpoint Management Tools; JumpCloud, Automox, SentinelOne. Terraform, PowerShell, Bash, GAM
-  - **Enterprise Software:** Google WorkSpace "gsuite", Microsoft 365, SAML/SSO Integrations, JumpCloud, MDM, Slack, Freshservice, Jira, GitHub, GitLab, Zendesk, On/Offboarding automation 
+  - **Enterprise Software Administration:** Google Workspace "gsuite", Microsoft 365, SAML/SSO Integrations, JumpCloud, MDM, Slack, Freshservice, Jira, GitHub, GitLab, Zendesk, On/Offboarding
   - **Network Infrastructure:** Zoom Rooms, Cisco Meraki, OpenVPN
   - **Security & Compliance:** SOC2, Endpoint Policies, Patch Management
 ---
