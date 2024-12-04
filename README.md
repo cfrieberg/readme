@@ -50,9 +50,12 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 ### 💼 **Previous Job Experience**
 
 **IT Consultant - Robert Half Technology, Denver, CO  (Aug '19 - Feb '20)**
-- Administered patch management for all company laptops and servers, ensuring up-to-date software and security patches were applied.
-- Worked closely with internal teams to design and deploy automated software management systems, reducing manual intervention.
-- Conducted training for junior IT staff to ensure understanding of patch management tools and best practices
+- Centralized all company laptops into a singel asset management tool, Automox.
+- Created laptop policies ensuring opearting system updates were applied with end-user notifications.
+- Created additional third party software vulnerability patch policies and security policies making laptops SOC compliant according to company controls.
+- Worked closely with IT contractors and IT Director to design and deploy IT agents to end user devices and setup laptop agent policies for disk encryption and IT asset management.
+- Documented Automox deployment and logged every single end user agent install in Zendesks ticketing system.
+- Cross trained other IT members on the  patch management policies and worklets in Automox.
 
 **IT Specialist - Akamai Systems Consulting Centennial, CO (Feb '19 - Aug '19)**
 - Denver-Metro IT MSP Specialist, providing IT services to small business throughout the area.
