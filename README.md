@@ -49,17 +49,16 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 
 ### 💼 **Previous Job Experience**
 
-**IT Consultant
-- Robert Half Technology, Denver, CO  (Aug '19 - Feb '20)**
+**IT Consultant - Robert Half Technology, Denver, CO  (Aug '19 - Feb '20)**
 - Administered patch management for all company laptops and servers, ensuring up-to-date software and security patches were applied.
 - Worked closely with internal teams to design and deploy automated software management systems, reducing manual intervention.
 - Conducted training for junior IT staff to ensure understanding of patch management tools and best practices
 
-- **Akamai Systems Consulting, Centennial, CO (Feb '19 - Aug '19)**
-- MSP Specialist, providing IT services to small business throughout the Denver-Metro area
+**IT Specialist - Akamai Systems Consulting Centennial, CO (Feb '19 - Aug '19)**
+- Denver-Metro IT MSP Specialist, providing IT services to small business throughout the area.
 - Administration of endpoint device operational support, email and office network management, cat5e install wiring, and system troubleshooting. 
 
--**IT Field Operations Site Lead - 3-D Technology Group, Nashville, TN (Nov '16 - Nov '18)**  
+**IT Site Lead of Field Operations - 3-D Technology Group, Nashville, TN (Nov '16 - Nov '18)**  
 - Led IT infrastructure operations for hospital domain migration projects, overseeing teams responsible for hardware setup, software installation, and system configurations.
 - Managed a team of technicians to deploy and maintain over 100 devices daily, ensuring compliance with strict timelines and quality standards.
 - Met with Executives and Directors each morning during Saftey Huddle giving migration project status updates.
@@ -70,8 +69,8 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 
 ### 👨‍💻 **About Me**
 
-When I'm not diving into the world of **cloud engineering** or **IT Services**, I spend my time **futures day trading** the /ES S&P 500 using **technical analysis** and the **opening range breakout strategy**. I'm passionate about working with **customizable algorithmic indicators**, collecting data sets, and refining strategies to improve my win rate. Oh, and did I mention? I'm also a **certified prop firm trader** on the side!
-
+When I'm not diving into the world of **cloud engineering** or **IT Services**, I spend my time **futures day trading** the /ES S&P 500 using **technical analysis** and the **opening range breakout strategy**. I'm passionate about working with **customizable algorithmic indicators**, collecting data sets, and refining strategies to improve my win rate as a  **certified prop firm trader** on the side!
+    
 Outside of trading, I have a busy household with **3 dogs**—Kylo, Bodie, and Pete—and my adorable **hedgehog**, Tulip. I love spending time with my girlfriend, friends, and family here in beautiful **Colorado**, whether we're hiking, attending **music shows**, playing **pool**, riding **bikes**, visiting **haunted houses**, or enjoying local **breweries**. Life’s all about the fun stuff!
 
 
