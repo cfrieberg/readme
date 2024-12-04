@@ -14,9 +14,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
   - **Enterprise Software:** Google WorkSpace "gsuite", Microsoft 365, SAML/SSO Integrations, JumpCloud, MDM, Slack, Freshservice, Jira, GitHub, GitLab, Zendesk, On/Offboarding automation 
   - **Network Infrastructure:** Zoom Rooms, Cisco Meraki, OpenVPN
   - **Security & Compliance:** SOC2, Endpoint Policies, Patch Management
-
 ---
-
 ### 🛠️ **Key Skills**
 - **Cloud Administration:** Managing Azure and GCP environments, IAM, virtual machines, and domain controllers.
 - **Automation:** Using Terraform, PowerShell, and Bash scripting for infrastructure as code (IaC) and operational efficiency.
@@ -26,29 +24,23 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Cost Reduction:** Lead enterprise application integrations during Merger & Auqisition phases. 
 - **Vendor relation management:** Uplight IT SME and point of contact for Automox, Cisco Meraki, JumpCloud, OpenVPN, Udemy.  
 ---
-
 ### 📂 **Projects & Contributions**
 - **Infrastructure Simplification:** Led initiatives to streamline enterprise application management and reduce costs.
 - **M&A Integrations:** Managed technical integrations for mergers, including Slack migrations and file management centrlization with Dropbox and Google Shared Drives.
 - **Automated Patching:** Developed and maintained automated patch management systems for Windows, macOS, and Linux using Automox and JumpCloud MDM patch management.
-
 ---
-
 ### 📜 **Certifications**
 - **JumpCloud Core Certified**
 - **Slack Certified Administrator**
 - **CompTIA Network+ Certified**
 - **BetterCloud SaaS Certified Administrator**
 - **Automox Patch Management Certified**
-
 ---
-
 ### 🌱 **Currently Learning**
 - Building on my foundational Linux knowledge, including system administration, shell scripting, and further expanding my skills with Terraform and Docker.
 - Expanding my knowledge in **cloud engineering**, focusing on **AWS** and **Azure** certifications.
 - Exploring advanced topics in **automation** and **infrastructure as code (IaC)**.
 ---
-
 ### 📫 **Connect with Me!**
 - 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/chrisfrieberg/)*
 - 📧 [Email](mailto:friebergchris@gmail.com)
@@ -75,6 +67,12 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - Provided after-hours support for critical systems, ensuring uptime for healthcare services and quick resolution of service disruptions.
 - Tracked and managed project progress using internal software, ensuring that all devices met client specifications and regulatory requirements.
 - Documented business operations and developed the Project Management SOP "playbook" for the IT Field Operations and PMO department. 
+
+### 👨‍💻 **About Me**
+
+When I'm not diving into the world of **cloud engineering** or **IT Services**, I spend my time **futures day trading** the /ES S&P 500 using **technical analysis** and the **opening range breakout strategy**. I'm passionate about working with **customizable algorithmic indicators**, collecting data sets, and refining strategies to improve my win rate. Oh, and did I mention? I'm also a **certified prop firm trader** on the side!
+
+Outside of trading, I have a busy household with **3 dogs**—Kylo, Bodie, and Pete—and my adorable **hedgehog**, Tulip. I love spending time with my girlfriend, friends, and family here in beautiful **Colorado**, whether we're hiking, attending **music shows**, playing **pool**, riding **bikes**, visiting **haunted houses**, or enjoying local **breweries**. Life’s all about the fun stuff!
 
 
 **Thanks for visiting!** Feel free to explore my repositories or reach out to discuss projects, collaboration opportunities, or just to say hi! 🚀
