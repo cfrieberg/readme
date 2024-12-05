@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Software License Management**: Collaborate with **Vendor CSMs** to ensure app renewals align with desired features and appropriate license counts. Regularly engage with **product engineers** to discuss roadmap features, ensuring we maximize the value of the apps we invest in and stay updated on upcoming improvements.
 - **IT Support and Escalation**: Serving as an escalation  point for the IT support analysts, providing  assistance for complex end-user issues and ensuring timely resolution of critical support tickets
 - **Organization and Documentation**: Skilled in organizing and documenting key IT processes, troubleshooting steps, tickets, and issues. 
-- **Created comprehensive **Knowledge Base (KB)** articles and led cross-trainings for fellow IT Team members.
+- **Created comprehensive Knowledge Base (KB)** articles and led cross-trainings for fellow IT Team members.
 - **Loom Video IT Content Creator** for quick lessons and easy **"How-To"** communication guides for all team members impacted during IT impacting projects/changes. 
 
 ---
@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Integration Expertise**: Integrated **Google Workspace** user attributes with **OpenVPN** network subnet access, streamlining user authentication and  access management.
 - **VPC Environment Access**: Configured and managed access to company product **VPC environments** such as **PRD (Production)**, **UAT (User Acceptance Testing)**, and **DEV (Development)** environments, enhancing system segmentation and security.
 - **AWS User Permissions Management**: Managed user permissions in **AWS** using **Terraform**, ensuring infrastructure as code (IaC) principles were followed for secure and scalable access control.
-- **CI/CD Pipeline Contributions**: Raised and managed and approved **Pull Requests (PRs)** to update files that ran through a **Circle CI pipeline**, streamlining the deployment process and maintaining code quality
+- **CI/CD Pipeline Contributions**: Raised, managed and approved **Pull Requests (PRs)** to update IAM  files which provided AWS access to prod, stg, uat environements, and aws security groups, using Terraform, Github and CircleCI, streamlining the deployment process and maintaining code quality.
 - **Github Enterprise Login Setup**: Integrated Google OAuth for login across 5 GitHub organizations.
 - **Google Cloud Identity Management**: Added and managed users in **GCP projects** through **Google Identity Management** within **Google Workspace**, ensuring appropriate access controls and permissions.
 - **S3 Bucket Management**: Configured and managed access permissions for **Amazon S3 buckets**, ensuring secure and efficient data storage practices.
