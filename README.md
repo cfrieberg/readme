@@ -4,27 +4,34 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 ---
 
 ### 🚀 **About Me**
-- 💼 **Current Role:** Staff Systems Administrator at Uplight, Inc.
+- 💼 **Current Role:** Staff Systems Administrator, Feb 2020-Present.
 - 🌍 **Location:** Lafayette, CO
 - 🎓 **Education:** Associate's Degree, College of Lake County
 - 🛠️ **Technical Expertise:** IT Infrastructure
-  - **Cloud Platforms:** Azure, Google Cloud Platform (GCP), AWS
-  - **Systems Administration:** Windows PC & Server, macOS, Linux
-  - **Tools:** Endpoint Management Tools; JumpCloud, Automox, SentinelOne. Terraform, PowerShell, Bash, GAM
-  - **Enterprise Software Administration:** Google Workspace "gsuite", Microsoft 365, SAML/SSO Integrations, JumpCloud, MDM, Slack, Freshservice, Jira, GitHub, GitLab, Zendesk, On/Offboarding
-  - **Network Infrastructure:** Zoom Rooms, Cisco Meraki, OpenVPN
-  - **Security & Compliance:** SOC2, Endpoint Policies, Patch Management
----
-### 🛠️ **Key Skills**
+
+### 🛠️  **Key Skills and Technologies**
+- **Cloud Platforms:** Azure, Google Cloud Platform (GCP), AWS
+- **Systems Administration:** Windows PC & Server, macOS, Linux
+- **Tools:** Endpoint Management Tools; JumpCloud, Automox, SentinelOne. Terraform, PowerShell, Bash, GAM
+- **Enterprise Software Administration:** Google Workspace "gsuite", Microsoft 365, SAML/SSO Integrations, JumpCloud, MDM, Slack, Freshservice, Jira, GitHub, GitLab, Zendesk, On/Offboarding
+- **Network Infrastructure:** Zoom Rooms, Cisco Meraki, OpenVPN
+- **Security & Compliance:** SOC2, Endpoint Policies, Patch Management
 - **Cloud Administration:** Managing Azure and GCP environments, IAM, virtual machines, and domain controllers.
 - **Automation:** Using Terraform, PowerShell, and Bash scripting for infrastructure as code (IaC) and operational efficiency.
-- **IT Infrastructure:** Building and maintaining office networks, including Cisco Meraki firewalls and switches.
-- **Collaboration Tools:** Administering Slack workspaces, SSO integrations, and Zoom conference systems.
+- **IT Infrastructure:** Building and maintaining office assets, laptops, printers, cisco meraki networks and video conference rooms.
+- **Collaboration Tools :** Slack Certified Admin, led multiple Slack workspace migrations, channels, memembers, bots and alert integrations.
 - **Security Practices:** Implementing endpoint encryption, vulnerability remediation, and compliance processes.
 - **Cost Reduction:** Lead enterprise application integrations during Merger & Auqisition phases. 
-- **Vendor relation management:** Uplight IT SME and point of contact for Automox, Cisco Meraki, JumpCloud, OpenVPN, Udemy.  
+- **Vendor relation management:** Uplight IT, SME and point of contact for Automox, Cisco Meraki, JumpCloud, OpenVPN, Udemy.  
+- **Software License Management**: Collaborate with **Vendor CSMs** to ensure app renewals align with desired features and appropriate license counts. Regularly engage with **product engineers** to discuss roadmap features, ensuring we maximize the value of the apps we invest in and stay updated on upcoming improvements.
+- **IT Support and Escalation**: Serving as an escalation  point for the IT support analysts, providing  assistance for complex end-user issues and ensuring timely resolution of critical support tickets
+- **Organization and Documentation**: Skilled in organizing and documenting key IT processes, troubleshooting steps, tickets, and issues. 
+- **Created comprehensive **Knowledge Base (KB)** articles and led cross-trainings for fellow IT Team members.
+- **Loom Video IT Content Creator** for quick lessons and easy **"How-To"** communication guides for all team members impacted during IT impacting projects/changes. 
+
 ---
-### 📂 **Projects & Contributions**
+### 📂 **Uplight Projects & Contributions as SysAdmin**
+
 - **On-site Office Network Infrastructure Setup**: Setup the current and previous Office internet, Corporate, Guest, and IOT SSIDs using radius authentication with JumpCloud, Cisco Meraki hardware,  **2 ISPs** (primary and backup), **2 firewalls** (high availability, redudancy), **2 switches**, and **10 indoor/outdoor access points (APs)**, ensuring robust connectivity and seamless coverage. 
 - **Office Safety and Surveillance**: Set up **security cameras** at key entry points to monitor door activity, enhancing workplace safety. These cameras are strategically placed to ensure privacy while recording critical events, providing a valuable layer of security for the office.
 - **Setup Zoom Controller iPads/tablets and Zoom Rooms** for in office video conferencing, integrated with **Google Calendar** for seamless scheduling and room management across the organization.
@@ -44,8 +51,11 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Google Workspace Configuration**: Reviewed and optimized **Google Workspace** sharing settings, including disabling public access to shared drives by default and implementing strict access controls.
 - **Naming Convention Implementation**: Established a naming convention for shared drives, appending **`-external`** to open drives to enhance visibility and manageability.
 - **User Group Management**: Created and managed **user groups** for corporate shared drives, such as **intranet editors** and **writers groups**, to streamline access control and content management.
-
----
+- **Google Workspace SuperAdmin**: Manage Google OUs, Resources, Users, Groups, Shared Drives and access. 
+- **Manage Application Licenses**: Conduct regular **User Access Reviews** across enterprise applications to assess usage and align licenses with actual needs, ensuring that underutilized apps are ident
+ified and either scaled down or eliminated to optimize costs.
+ 
+--
 ### 📜 **Certifications**
 - **JumpCloud Core Certified**
 - **Slack Certified Administrator**
@@ -54,7 +64,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Automox Patch Management Certified**
 ---
 ### 🌱 **Currently Learning**
-- Building on my foundational Linux knowledge, including system administration, shell scripting, and further expanding my skills with Terraform and Docker.
+- Building on my foundational Linux knowledge, system administration, shell scripting, and further expanding my skills with Terraform, Docker, SDLC, CI/CD.
 - Expanding my knowledge in **cloud engineering**, focusing on **AWS** and **Azure** certifications.
 - Exploring advanced topics in **automation** and **infrastructure as code (IaC)**.
 ---
