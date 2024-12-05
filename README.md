@@ -18,6 +18,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **IDAAS Administrator:** Configured and administer corporate identity access management using JumpCloud, similar to Okta, to connect enterprise applications, using LDAP, SAML, Single-Sign-On and conditional access policies, to a central user portal secured with MFA.
 - **Security & Compliance:** SOC2, Endpoint Policies, Patch Management
 - **Cloud Administration:** Managing Azure and GCP environments, IAM, virtual machines, and domain controllers.
+- **Microsoft Active Directory Management**: Managed **users**, **security groups**, and **access permissions** within **Active Directory** on Windows servers, ensuring secure and organized user authentication and resource access.
 - **Automation:** Using Terraform, PowerShell, and Bash scripting for infrastructure as code (IaC) and operational efficiency.
 - **IT Infrastructure:** Building and maintaining office assets, laptops, printers, cisco meraki networks and video conference rooms.
 - **Collaboration Tools :** Slack Certified Admin, led multiple Slack workspace migrations, channels, memembers, bots and alert integrations.
