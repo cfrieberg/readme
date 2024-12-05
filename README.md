@@ -54,7 +54,8 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Google Workspace SuperAdmin**: Manage Google OUs, Resources, Users, Groups, Shared Drives and access. 
 - **Manage Application Licenses**: Conduct regular **User Access Reviews** across enterprise applications to assess usage and align licenses with actual needs, ensuring that underutilized apps are ident
 ified and either scaled down or eliminated to optimize costs.
- 
+- **Atlassian Permissions Management**: Manage user permissions across **Atlassian** tools, including **Jira**, **Jira Service Management (JSM)**, **Confluence**, ensuring proper access control, secure collaboration. 
+
 --
 ### 📜 **Certifications**
 - **JumpCloud Core Certified**
