@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Integration Expertise**: Integrated **Google Workspace** user attributes with **OpenVPN** network subnet access, streamlining user authentication and  access management.
 - **AWS IAM Access**: Managed access to company **AWS environments** such as **PRD (Production)**, **UAT (User Acceptance Testing)**, and **DEV (Development)** environments.
 - **AWS User Permissions Management**: Managed user permissions in **AWS** using **Terraform**, ensuring infrastructure as code (IaC) principles were followed for secure and scalable access control.
-- **CI/CD Pipeline Contributions**: Raised, managed and approved **Pull Requests (PRs)** to update IAM  files which provided AWS access to prod, stg, uat environements, and aws security groups, using Terraform, Github and CircleCI, streamlining the deployment process and maintaining code quality.
+- **CI/CD Pipeline Contributions**: Raised, managed and approved **Pull Requests (PRs)** to update IAM  files which provided AWS access to prod, stg, uat environments, and aws security groups, using Terraform, Github and CircleCI, streamlining the deployment process and maintaining code quality.
 - **Github Enterprise Login Setup**: Integrated Google OAuth for login across 5 GitHub organizations.
 - **Google Cloud Identity Management**: Added and managed users in **GCP projects** through **Google Identity Management** within **Google Workspace**, ensuring appropriate access controls and permissions.
 - **S3 Bucket Management**: Managed access permissions for **Amazon S3 buckets**, and end user SFTP client setup, ensuring secure and efficient data storage practices. 
