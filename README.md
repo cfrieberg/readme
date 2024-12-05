@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 ---
 
 ### 🚀 **About Me**
-- 💼 **Current Role:** Staff Systems Administrator, Feb 2020-Present.
+- 💼 **Current Role:** IT Team,  Staff Systems Administrator (Feb 2020-Present).
 - 🌍 **Location:** Lafayette, CO
-- 🎓 **Education:** Associate's Degree, College of Lake County
+- 🎓 **Education:** Associate's Degree, College of Lake County Illinois
 - 🛠️ **Technical Expertise:** IT Infrastructure
 
 ### 🛠️  **Key Skills and Technologies**
@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Loom Video IT Content Creator** for quick lessons and easy **"How-To"** communication guides for all team members impacted during IT impacting projects/changes. 
 
 ---
-### 📂 **Uplight Projects & Contributions as SysAdmin**
+### 📂 **Uplight Projects & Contributions as IT SysAdmin**
 
 - **On-site Office Network Infrastructure Setup**: Setup the current and previous Office internet, Corporate, Guest, and IOT SSIDs using radius authentication with JumpCloud, Cisco Meraki hardware,  **2 ISPs** (primary and backup), **2 firewalls** (high availability, redudancy), **2 switches**, and **10 indoor/outdoor access points (APs)**, ensuring robust connectivity and seamless coverage. 
 - **Office Safety and Surveillance**: Set up **security cameras** at key entry points to monitor door activity, enhancing workplace safety. These cameras are strategically placed to ensure privacy while recording critical events, providing a valuable layer of security for the office.
@@ -45,9 +45,8 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **CI/CD Pipeline Contributions**: Raised, managed and approved **Pull Requests (PRs)** to update IAM  files which provided AWS access to prod, stg, uat environements, and aws security groups, using Terraform, Github and CircleCI, streamlining the deployment process and maintaining code quality.
 - **Github Enterprise Login Setup**: Integrated Google OAuth for login across 5 GitHub organizations.
 - **Google Cloud Identity Management**: Added and managed users in **GCP projects** through **Google Identity Management** within **Google Workspace**, ensuring appropriate access controls and permissions.
-- **S3 Bucket Management**: Configured and managed access permissions for **Amazon S3 buckets**, ensuring secure and efficient data storage practices.
-- **File Sharing Security Implementation** - 
-- **Data Security and Access Management**: Collaborated with the **IT Director** and **Security Engineer** to ensure files stored in **Google Drive**, **Dropbox**, and local systems are not shared publicly or exposed.
+- **S3 Bucket Management**: Configured and managed access permissions for **Amazon S3 buckets**, ensuring secure and efficient data storage practices. 
+- **File Sharing and Data Security Access Management**: Collaborated with the **IT Director** and **Security Engineer** to ensure files stored in **Google Drive**, **Dropbox**, and local systems are not shared publicly or exposed.
 - **Google Workspace Configuration**: Reviewed and optimized **Google Workspace** sharing settings, including disabling public access to shared drives by default and implementing strict access controls.
 - **Naming Convention Implementation**: Established a naming convention for shared drives, appending **`-external`** to open drives to enhance visibility and manageability.
 - **User Group Management**: Created and managed **user groups** for corporate shared drives, such as **intranet editors** and **writers groups**, to streamline access control and content management.
