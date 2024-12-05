@@ -79,7 +79,8 @@ ified and either scaled down or eliminated to optimize costs.
 ### 💼 **Previous Job Experience**
 
 **IT Consultant - Robert Half Technology, Denver, CO  (Aug '19 - Feb '20)**
-- Centralized all company laptops into a singel asset management tool, Automox.
+- Performed IT System Admin tasks for client, Uplight, Inc. reporting to the Director of IT.
+- Centralized all company laptops into a single asset management tool, Automox.
 - Created laptop policies ensuring opearting system updates were applied with end-user notifications.
 - Created additional third party software vulnerability patch policies and security policies making laptops SOC compliant according to company controls.
 - Worked closely with IT contractors and IT Director to design and deploy IT agents to end user devices and setup laptop agent policies for disk encryption and IT asset management.
