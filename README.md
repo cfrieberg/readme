@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Tools:** Endpoint Management Tools; JumpCloud, Automox, SentinelOne. Terraform, PowerShell, Bash, GAM
 - **Enterprise Software Administration:** Google Workspace "gsuite", Microsoft 365, SAML/SSO Integrations, JumpCloud, MDM, Slack, Freshservice, Jira, GitHub, GitLab, Zendesk, On/Offboarding
 - **Network Infrastructure:** Zoom Rooms, Cisco Meraki, OpenVPN
+- **IDAAS Administrator:** Configured and administer corporate identity access management using JumpCloud, similar to Okta, to connect enterprise applications, using LDAP, SAML, Single-Sign-On and conditional access policies, to a central user portal secured with MFA.
 - **Security & Compliance:** SOC2, Endpoint Policies, Patch Management
 - **Cloud Administration:** Managing Azure and GCP environments, IAM, virtual machines, and domain controllers.
 - **Automation:** Using Terraform, PowerShell, and Bash scripting for infrastructure as code (IaC) and operational efficiency.
