@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **VPC Environment Access**: Configured and managed access to company product **VPC environments** such as **PRD (Production)**, **UAT (User Acceptance Testing)**, and **DEV (Development)** environments, enhancing system segmentation and security.
 - **AWS User Permissions Management**: Managed user permissions in **AWS** using **Terraform**, ensuring infrastructure as code (IaC) principles were followed for secure and scalable access control.
 - **CI/CD Pipeline Contributions**: Raised and managed and approved **Pull Requests (PRs)** to update files that ran through a **Circle CI pipeline**, streamlining the deployment process and maintaining code quality
-- **Github Enterprise, *Unified Authentication Setup*: Integrated Google OAuth for login across ** GitHub organizations**
+- **Github Enterprise Login Setup**: Integrated Google OAuth for login across 5 GitHub organizations.
 - **Google Cloud Identity Management**: Added and managed users in **GCP projects** through **Google Identity Management** within **Google Workspace**, ensuring appropriate access controls and permissions.
 - **S3 Bucket Management**: Configured and managed access permissions for **Amazon S3 buckets**, ensuring secure and efficient data storage practices.
 - **File Sharing Security Implementation** - 
