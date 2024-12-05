@@ -100,7 +100,7 @@ ified and either scaled down or eliminated to optimize costs.
 
 ### 👨‍💻 **About Me**
 
-When I'm not diving into the world of **cloud engineering** or **IT Services**, I spend my time **futures day trading** the /ES S&P 500 using **technical analysis** and the **opening range breakout strategy**. I'm passionate about working with **customizable algorithmic indicators**, collecting data sets, and refining strategies to improve my win rate as a  **certified prop firm trader** on the side!
+When I'm not diving into the world of **cloud engineering** or **IT Services**, I spend time **futures trading** the /ES S&P 500 using **technical analysis** and the **opening range breakout strategy**. I'm passionate about working with **customizable algorithmic indicators**, collecting data sets, and refining strategies to improve my win rate as a  **certified prop firm trader** on the side!
     
 Outside of trading, I have a busy household with **3 dogs**—Kylo, Bodie, and Pete—and my adorable **hedgehog**, Tulip. I love spending time with my girlfriend, friends, and family here in beautiful **Colorado**, whether we're hiking, attending **music shows**, playing **pool**, riding **bikes**, visiting **haunted houses**, or enjoying local **breweries**. Life’s all about the fun stuff!
 
