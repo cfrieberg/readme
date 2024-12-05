@@ -25,9 +25,26 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Vendor relation management:** Uplight IT SME and point of contact for Automox, Cisco Meraki, JumpCloud, OpenVPN, Udemy.  
 ---
 ### 📂 **Projects & Contributions**
-- **Infrastructure Simplification:** Led initiatives to streamline enterprise application management and reduce costs.
-- **M&A Integrations:** Managed technical integrations for mergers, including Slack migrations and file management centrlization with Dropbox and Google Shared Drives.
+- **On-site Office Network Infrastructure Setup**: Setup the current and previous Office internet, Corporate, Guest, and IOT SSIDs using radius authentication with JumpCloud, Cisco Meraki hardware,  **2 ISPs** (primary and backup), **2 firewalls** (high availability, redudancy), **2 switches**, and **10 indoor/outdoor access points (APs)**, ensuring robust connectivity and seamless coverage. 
+- **Office Safety and Surveillance**: Set up **security cameras** at key entry points to monitor door activity, enhancing workplace safety. These cameras are strategically placed to ensure privacy while recording critical events, providing a valuable layer of security for the office.
+- **Setup Zoom Controller iPads/tablets and Zoom Rooms** for in office video conferencing, integrated with **Google Calendar** for seamless scheduling and room management across the organization.
+- **Company Laptop Asset Management:** Created and documented the Uplight Laptop buildout guide for the IT team and now for our external laptop vendor. 
 - **Automated Patching:** Developed and maintained automated patch management systems for Windows, macOS, and Linux using Automox and JumpCloud MDM patch management.
+- **Company VPN IAM Admin:** Collaborated with the Site Relability Team on centralizing logins to google oAuth.
+- **Uplight VPN Launch**: Assigned and managed network access groups, ensuring secure and organized permissions for various team members.
+- **Integration Expertise**: Integrated **Google Workspace** user attributes with **OpenVPN** network subnet access, streamlining user authentication and  access management.
+- **VPC Environment Access**: Configured and managed access to company product **VPC environments** such as **PRD (Production)**, **UAT (User Acceptance Testing)**, and **DEV (Development)** environments, enhancing system segmentation and security.
+- **AWS User Permissions Management**: Managed user permissions in **AWS** using **Terraform**, ensuring infrastructure as code (IaC) principles were followed for secure and scalable access control.
+- **CI/CD Pipeline Contributions**: Raised and managed and approved **Pull Requests (PRs)** to update files that ran through a **Circle CI pipeline**, streamlining the deployment process and maintaining code quality
+- **Github Enterprise, *Unified Authentication Setup*: Integrated Google OAuth for login across ** GitHub organizations**
+- **Google Cloud Identity Management**: Added and managed users in **GCP projects** through **Google Identity Management** within **Google Workspace**, ensuring appropriate access controls and permissions.
+- **S3 Bucket Management**: Configured and managed access permissions for **Amazon S3 buckets**, ensuring secure and efficient data storage practices.
+- **File Sharing Security Implementation** - 
+- **Data Security and Access Management**: Collaborated with the **IT Director** and **Security Engineer** to ensure files stored in **Google Drive**, **Dropbox**, and local systems are not shared publicly or exposed.
+- **Google Workspace Configuration**: Reviewed and optimized **Google Workspace** sharing settings, including disabling public access to shared drives by default and implementing strict access controls.
+- **Naming Convention Implementation**: Established a naming convention for shared drives, appending **`-external`** to open drives to enhance visibility and manageability.
+- **User Group Management**: Created and managed **user groups** for corporate shared drives, such as **intranet editors** and **writers groups**, to streamline access control and content management.
+
 ---
 ### 📜 **Certifications**
 - **JumpCloud Core Certified**
