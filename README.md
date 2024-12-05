@@ -64,8 +64,8 @@ ified and either scaled down or eliminated to optimize costs.
 - **Automox Patch Management Certified**
 ---
 ### 🌱 **Currently Learning**
-- Building on my foundational Linux knowledge, system administration, shell scripting, and further expanding my skills with Terraform, Docker, SDLC, CI/CD.
-- Expanding my knowledge in **cloud engineering**, focusing on **AWS** and **Azure** certifications.
+- Building on my Linux knowledge, system administration, shell scripting, and further expanding my skills with Terraform, Docker, SDLC, CI/CD.
+- Expanding my knowledge in **cloud engineering**, focusing on **AWS**,**Azure**, **Python**, and **API**.  
 - Exploring advanced topics in **automation** and **infrastructure as code (IaC)**.
 ---
 ### 📫 **Connect with Me!**
