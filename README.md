@@ -106,5 +106,5 @@ Outside of trading, I have a busy household with **3 dogs**—Kylo, Bodie, and P
 
 **Thanks for visiting!** Feel free to explore my repositories or reach out to discuss projects, collaboration opportunities, or just to say hi! 🚀
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cfrieberg&repo=github-readme-stats)](https://github.com/cfrieberg/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cfrieberg&repo=readme)](https://github.com/cfrieberg/readme)
 
