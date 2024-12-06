@@ -73,6 +73,7 @@ ified and either scaled down or eliminated to optimize costs.
 ### 🌱 **Currently Learning**
 - Building onto my Linux knowledge, system administration, shell scripting, and further expanding my skills with Terraform, Docker, SDLC, CI/CD.
 - Expanding my knowledge in **cloud engineering**, focusing on **AWS**, **Azure**, **Python**, and **API**, and leveraging AI to enhance productivity and technical problem solving.
+- MITx: Introduction to Computer Science and Programming Using Python
 - Exploring topics in **automation** and **infrastructure as code (IaC)**.
 ---
 ### 📫 **Connect with Me!**
