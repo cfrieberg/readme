@@ -1,6 +1,11 @@
 👋 Hi there, I'm Chris Frieberg!
 
-Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** with a strong background in IT infrastructure, cloud services, and automation.
+Welcome to my GitHub profile!
+
+I'm a passionate **Staff Systems Administrator** with a well-rounded background in IT infrastructure, cloud services, and automation.
+
+This README serves as a snapshot of my professional journey and technical expertise.
+
 ---
 
 ### 🚀 **About Me**
@@ -66,10 +71,9 @@ ified and either scaled down or eliminated to optimize costs.
 - **Automox Patch Management Certified**
 ---
 ### 🌱 **Currently Learning**
-- Building on my Linux knowledge, system administration, shell scripting, and further expanding my skills with Terraform, Docker, SDLC, CI/CD.
+- Building onto my Linux knowledge, system administration, shell scripting, and further expanding my skills with Terraform, Docker, SDLC, CI/CD.
 - Expanding my knowledge in **cloud engineering**, focusing on **AWS**, **Azure**, **Python**, and **API**, and leveraging AI to enhance productivity and technical problem solving.
-  
-- Exploring advanced topics in **automation** and **infrastructure as code (IaC)**.
+- Exploring topics in **automation** and **infrastructure as code (IaC)**.
 ---
 ### 📫 **Connect with Me!**
 - 🌐 [LinkedIn](#) *(https://www.linkedin.com/in/chrisfrieberg/)*
@@ -77,7 +81,7 @@ ified and either scaled down or eliminated to optimize costs.
 - 💻 [GitHub](#) *(https://github.com/cfrieberg)*
 ---
 
-### 💼 **Previous Job Experience**
+### 💼 **Previous Work Experience**
 
 **IT Consultant - Robert Half Technology, Denver, CO  (Aug '19 - Feb '20)**
 - Performed IT System Admin tasks for my assigned client, Uplight Inc. and  reported to the Director of IT.
@@ -88,11 +92,11 @@ ified and either scaled down or eliminated to optimize costs.
 - Documented Automox deployment and logged every single end user agent install in Zendesks ticketing system.
 - Cross trained other IT members on the  patch management policies and worklets in Automox.
 
-**IT Specialist - Akamai Systems Consulting Centennial, CO (Feb '19 - Aug '19)**
+**IT Specialist, Akamai Systems Consulting, Centennial, CO (Feb '19 - Aug '19)**
 - Denver-Metro IT MSP Specialist, providing IT services to small business throughout the area.
 - Administration of endpoint device operational support, email and office network management, cat5e install wiring, and system troubleshooting. 
 
-**IT Site Lead of Field Operations - 3-D Technology Group, Nashville, TN (Nov '16 - Nov '18)**  
+**IT Site Lead of Field Operations, 3-D Technology Group, Nashville, TN (Nov '16 - Nov '18)**  
 - Led IT infrastructure operations for hospital domain migration projects, overseeing teams responsible for hardware setup, software installation, and system configurations.
 - Managed a team of technicians to deploy and maintain over 100 devices daily, ensuring compliance with strict timelines and quality standards.
 - Met with Executives and Directors each morning during Saftey Huddle giving migration project status updates.
