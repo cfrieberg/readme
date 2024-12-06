@@ -88,7 +88,7 @@ ified and either scaled down or eliminated to optimize costs.
 - Documented Automox deployment and logged every single end user agent install in Zendesks ticketing system.
 - Cross trained other IT members on the  patch management policies and worklets in Automox.
 
-**IT Specialist - Akamai Systems Consulting Centennial, CO (Feb '19 - Aug '19)**
+**IT Specialist - Akamai Systems Consulting, Centennial, CO (Feb '19 - Aug '19)**
 - Denver-Metro IT MSP Specialist, providing IT services to small business throughout the area.
 - Administration of endpoint device operational support, email and office network management, cat5e install wiring, and system troubleshooting. 
 
