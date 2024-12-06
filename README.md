@@ -41,8 +41,7 @@ Welcome to my GitHub profile! I'm a passionate **Staff Systems Administrator** w
 - **Company Laptop Asset Management:** Created and documented the Uplight Laptop buildout guide for the IT team and now for our external laptop vendor. 
 - **Automated Patching:** Developed and maintained automated patch management systems for Windows, macOS, and Linux using Automox and JumpCloud MDM patch management.
 - **Company VPN IAM Admin:** Collaborated with the Site Relability Team on centralizing logins to google oAuth.
-- **Uplight VPN Launch**: Assigned and managed network access groups, ensuring secure and organized permissions for various team members.
-- **Integration Expertise**: Integrated **Google Workspace** user attributes with **OpenVPN** network subnet access, streamlining user authentication and  access management.
+- **Configured Company VPN Idenity Access Management**: Assigned and managed network access groups, ensuring secure and organized permissions for various team members. Integrated and synced **Google Workspace** user attributes with **OpenVPN** network subnet access, streamlining user VPN access and  authentication and access. Setup user .ovpn config files and provided end user VPN troubleshooting support.
 - **AWS IAM Access**: Managed access to company **AWS environments** such as **PRD (Production)**, **UAT (User Acceptance Testing)**, and **DEV (Development)** environments.
 - **AWS User Permissions Management**: Managed user permissions in **AWS** using **Terraform**, ensuring infrastructure as code (IaC) principles were followed for secure and scalable access control.
 - **CI/CD Pipeline Contributions**: Raised, managed and approved **Pull Requests (PRs)** to update IAM  files which provided AWS access to prod, stg, uat environments, and aws security groups, using Terraform, Github and CircleCI, streamlining the deployment process and maintaining code quality.
